@@ -35,6 +35,8 @@ int main(int argc, const char * argv[]) {
     
     printf("Press 1 to continue to binary converter, 0 to exit\n"); // menu print for next program
     scanf("%d",&option1);
+    printf("this is to test the code");
+    printf("this is to test the code");
     if (option1 == 1)
     {
         binary(); // calling binary function
